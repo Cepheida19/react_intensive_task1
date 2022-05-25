@@ -1,0 +1,31 @@
+.container {
+  background-color: rgba(159, 121, 238, 0.5);
+  margin-top: -20px;
+}
+h2 {
+  text-align: center;
+  font-size: 28px;
+  color: #363636;
+}
+.no{
+  height: 87px;
+  color: rgba(159, 121, 238, 0.5);
+}
+.wrap {
+  width: 750px;
+  height: 870px;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  border-top: 1px solid #363636;
+  border-bottom: 1px solid #363636;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+
